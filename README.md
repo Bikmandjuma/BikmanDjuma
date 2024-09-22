@@ -56,17 +56,17 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
             <strong>Python</strong>
           </a>
-          &nbsp; <!-- Add space between icons -->
+          &nbsp;&nbsp; <!-- Add space between icons -->
           <a href="https://www.java.com" target="parent" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
             <strong>Java</strong>
           </a>
-          &nbsp;
+          &nbsp;&nbsp;
           <a href="https://www.php.net" target="parent" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
             <strong>PHP</strong>
           </a>
-          &nbsp;
+          &nbsp;&nbsp;
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
             <strong>JavaScript</strong>
@@ -82,19 +82,19 @@
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/>
       <strong>Laravel</strong>
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://flask.palletsprojects.com/" target="_parent" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
       <strong>Flask</strong>
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_3MFhCzXcwI3GWIDTsWJg2HXDTG7TwGovA&s" alt="FastAPI" width="40" height="40"/>
       <strong>FastAPI</strong>
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
       <img src="https://freesvg.org/img/jsp.png" alt="FastAPI" width="40" height="40"/>
       <strong>JSP</strong>
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2vugByCslZ2RwSqQhKkcJQe6NEkbIbOglHQ&s" alt="FastAPI" width="40" height="40"/>
       <strong>Servlet</strong>
@@ -110,23 +110,23 @@
         <a href="https://getbootstrap.com" target="parent" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
           <strong>Bootstrap</strong>
-        </a>
+        </a>&nbsp;&nbsp;
         <a href="https://vuejs.org/" target="parent" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
           <strong>Vue.js</strong>
-        </a>
+        </a>&nbsp;&nbsp;
         <a href="https://vuetifyjs.com/en/" target="parent" rel="noreferrer">
           <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
           <strong>Vuetify</strong>
-        </a>
+        </a>&nbsp;&nbsp;
         <a href="https://tailwindcss.com/" target="parent" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
           <strong>Tailwind CSS</strong>
-        </a>
+        </a>&nbsp;&nbsp;
         <a href="https://www.w3schools.com/css/" target="parent" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
           <strong>CSS3</strong>
-        </a>
+        </a>&nbsp;&nbsp;
         <a href="https://www.w3.org/html/" target="parent" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
           <strong>HTML5</strong>
@@ -142,7 +142,7 @@
         <a href="https://www.postgresql.org" target="parent" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
           <strong>PostgreSQL</strong>
-        </a>
+        </a>&nbsp;&nbsp;
         <a href="https://www.mysql.com/" target="parent" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
           <strong>MySQL</strong>
@@ -158,7 +158,7 @@
         <a href="https://developer.android.com" target="parent" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
           <strong>Android</strong>
-        </a>
+        </a>&nbsp;&nbsp;
         <a href="https://reactnative.dev/" target="parent" rel="noreferrer"> 
           <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
           <strong>React Native</strong>
@@ -186,23 +186,23 @@
         <a href="https://scikit-learn.org/" target="parent" rel="noreferrer"> 
           <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
           <strong>Scikit-Learn</strong>
-        </a> 
+        </a> &nbsp;&nbsp;
         <a href="https://seaborn.pydata.org/" target="parent" rel="noreferrer"> 
           <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
           <strong>Seaborn</strong>
-        </a> 
+        </a> &nbsp;&nbsp;
         <a href="https://www.tensorflow.org" target="parent" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
           <strong>TensorFlow</strong>
-        </a> 
+        </a> &nbsp;&nbsp;
         <a href="https://pytorch.org/" target="parent" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
           <strong>PyTorch</strong>
-        </a>  
+        </a>  &nbsp;&nbsp;
         <a href="https://opencv.org/" target="parent" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
           <strong>OpenCV</strong>
-        </a> 
+        </a> &nbsp;&nbsp;
         <a href="https://pandas.pydata.org/" target="parent" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
           <strong>Pandas</strong>
@@ -227,27 +227,27 @@
         <a href="https://postman.com" target="parent" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
           <strong>Postman</strong>
-        </a>
+        </a>&nbsp;&nbsp;
         <a href="https://git-scm.com/" target="parent" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
           <strong>Git</strong>
-        </a>
+        </a>&nbsp;&nbsp;
         <a href="https://visualstudio.microsoft.com/" target="parent" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/> 
           <strong>Visual Studio</strong>
-        </a>
+        </a>&nbsp;&nbsp;
         <a href="https://jupyter.org/" target="parent" rel="noreferrer"> 
           <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> 
           <strong>Jupyter</strong>
-        </a>
+        </a>&nbsp;&nbsp;
         <a href="https://www.anaconda.com/" target="parent" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> 
           <strong>Anaconda</strong>
-        </a>
+        </a>&nbsp;&nbsp;
         <a href="https://www.eclipse.org/" target="parent" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> 
           <strong>Eclipse</strong>
-        </a>
+        </a>&nbsp;&nbsp;
         <a href="https://www.jetbrains.com/idea/" target="parent" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> 
           <strong>IntelliJ IDEA</strong>
