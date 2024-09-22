@@ -1,5 +1,5 @@
 <img height="400"  alt="coding" src="https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg">
-<img height="400" alt="coding" src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png">
+<img height="300" alt="coding" src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png">
 
 <h1 align="center">Hi 👋, I'm Bikman Ntiruhungwa</h1>
 <h3 align="center">A passionate software developer from Rwanda</h3>
