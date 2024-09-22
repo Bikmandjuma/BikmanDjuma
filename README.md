@@ -91,12 +91,12 @@
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_3MFhCzXcwI3GWIDTsWJg2HXDTG7TwGovA&s" alt="FastAPI" width="40" height="40"/>
       <strong>FastAPI</strong>
     </a>&nbsp;&nbsp;
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-      <img src="https://freesvg.org/img/jsp.png" alt="FastAPI" width="40" height="40"/>
+    <a href="https://www.oracle.com/java/technologies/javaee/jsp.html" target="_blank" rel="noreferrer">
+      <img src="https://freesvg.org/img/jsp.png" alt="JSP" width="40" height="40"/>
       <strong>JSP</strong>
     </a>&nbsp;&nbsp;
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2vugByCslZ2RwSqQhKkcJQe6NEkbIbOglHQ&s" alt="FastAPI" width="40" height="40"/>
+    <a href="https://www.oracle.com/java/technologies/javaee/servlet.html" target="_blank" rel="noreferrer">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2vugByCslZ2RwSqQhKkcJQe6NEkbIbOglHQ&s" alt="Servlet" width="40" height="40"/>
       <strong>Servlet</strong>
     </a>
   </td>
