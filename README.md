@@ -78,12 +78,29 @@
 
   <tr>
     <td>Backend</td>
-    <td>
-      <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/>
-        <strong>Laravel</strong>
-      </a>
-    </td>
+  <td>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/>
+      <strong>Laravel</strong>
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_parent" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+      <strong>Flask</strong>
+    </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_3MFhCzXcwI3GWIDTsWJg2HXDTG7TwGovA&s" alt="FastAPI" width="40" height="40"/>
+      <strong>FastAPI</strong>
+    </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+      <img src="https://freesvg.org/img/jsp.png" alt="FastAPI" width="40" height="40"/>
+      <strong>JSP</strong>
+    </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2vugByCslZ2RwSqQhKkcJQe6NEkbIbOglHQ&s" alt="FastAPI" width="40" height="40"/>
+      <strong>Servlet</strong>
+    </a>
+  </td>
+</td>
   </tr>
 
   <tr>
@@ -105,10 +122,6 @@
         <a href="https://tailwindcss.com/" target="parent" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
           <strong>Tailwind CSS</strong>
-        </a>
-        <a href="https://flask.palletsprojects.com/" target="parent" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-          <strong>Flask</strong>
         </a>
         <a href="https://www.w3schools.com/css/" target="parent" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
