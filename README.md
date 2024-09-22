@@ -1,19 +1,20 @@
-<img height="400"  alt="coding" src="https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg">
-<img height="300" alt="coding" src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png">
-
+<img height="400"  style="margin-top:-50px;" alt="coding" src="https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg">
+<!-- <img height="300"  style="margin-top:-80px;" alt="coding" src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png">
+ -->
 <!--h1 align="center">Hi 👋, I'm Bikman Ntiruhungwa</h1-->
-<h1 align="center">Hi 👋, I'm <span class="name-popup">Bik<span class="full-name">man Ntiruhungwa</span></span></h1>
+<h1 align="center">Hi 👋, I'm Bikman Ntiruhungwa</h1>
 
 <h3 align="center">
-  A passionate software developer with a deep love for coding and problem-solving. I specialize in PHP, Laravel, and web development, but I’m always exploring new technologies to expand my skills.
+  A passionate software developer with a deep love for coding and problem-solving. I specialize in PHP, Laravel,javascript and webdevelopment  and web development, but I’m always exploring new technologies to expand my skills.
 </h3>
 
 <h3>What I do:</h3>
 <ol>
-  <li>📱 Building modern web applications using <strong>Laravel</strong>.</li>
+  <li>📱 Building modern web applications using <strong>Laravel ,VueJS and Flask</strong>.</li>
   <li>💻 Developing dynamic websites and <strong>RESTful APIs</strong>.</li>
   <li>📈 Working on data visualization and analytics projects.</li>
-  <li>🛠 Exploring <strong>React Native</strong> for cross-platform mobile apps.</li>
+  <li>🛠 Exploring <strong>React Native and android</strong> for cross-platform mobile apps.</li>
+  <li>🤖 Developing machine learning applications using <strong>Python</strong>.</li>
   <li>📝 Writing clean, maintainable, and efficient code.</li>
 </ol>
 <hr>
