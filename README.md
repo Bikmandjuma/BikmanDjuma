@@ -1,14 +1,28 @@
 <img height="400"  alt="coding" src="https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg">
 <img height="300" alt="coding" src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png">
 
-<h1 align="center">Hi 👋, I'm Bikman Ntiruhungwa</h1>
-<h3 align="center">A passionate software developer from Rwanda</h3>
+<!--h1 align="center">Hi 👋, I'm Bikman Ntiruhungwa</h1-->
+<h1 align="center">Hi 👋, I'm <span class="name-popup">Bik<span class="full-name">man Ntiruhungwa</span></span></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bikmandjuma&label=Profile%20views&color=0e75b6&style=flat" alt="bikmandjuma" /> </p>
+<h3 align="center">
+  A passionate software developer with a deep love for coding and problem-solving. I specialize in PHP, Laravel, and web development, but I’m always exploring new technologies to expand my skills.
+</h3>
+
+<h3>What I do:</h3>
+<ol>
+  <li>📱 Building modern web applications using <strong>Laravel</strong>.</li>
+  <li>💻 Developing dynamic websites and <strong>RESTful APIs</strong>.</li>
+  <li>📈 Working on data visualization and analytics projects.</li>
+  <li>🛠 Exploring <strong>React Native</strong> for cross-platform mobile apps.</li>
+  <li>📝 Writing clean, maintainable, and efficient code.</li>
+</ol>
+<hr>
+
+<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=bikmandjuma&label=Profile%20views&color=0e75b6&style=flat" alt="bikmandjuma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikmandjuma" alt="bikmandjuma" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bikman_djuma" target="blank"><img src="https://img.shields.io/twitter/follow/bikman_djuma?logo=twitter&style=for-the-badge" alt="bikman_djuma" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bikman_djuma" target="blank"><img src="https://img.shields.io/twitter/follow/bikman_djuma?logo=twitter&style=for-the-badge" alt="bikman_djuma" /></a> </p-->
 
 - 🔭 I’m currently working on **School-Edge**
 
