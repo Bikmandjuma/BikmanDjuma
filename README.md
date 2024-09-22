@@ -1,10 +1,11 @@
-<!--img height="400"  style="margin-top:-50px;" alt="coding" src="https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg"-'-->
-<img height="250"  style="margin-top:-80px;" alt="coding" src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png">
+<!-- <img height="400"  style="margin-top:-50px;" alt="coding" src="https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg"> -->
+<img height="300"  style="margin-top:-80px;" alt="coding" src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png">
+
 <!--h1 align="center">Hi 👋, I'm Bikman Ntiruhungwa</h1-->
 <h1 align="center">Hi 👋, I'm Bikman Ntiruhungwa</h1>
 
 <h3 align="center">
-  A passionate software developer with a deep love for coding and  I’m always exploring new technologies to expand my skills.
+  A passionate software developer with a deep love for coding and problem-solving. I specialize in PHP, Laravel,javascript and webdevelopment  and web development, but I’m always exploring new technologies to expand my skills.
 </h3>
 
 <h3>What I do:</h3>
@@ -46,7 +47,183 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td>Programming language</td>
+    <td>
+        <p align="left">
+          <a href="https://www.python.org" target="parent" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+            <strong>Python</strong>
+          </a>
+          &nbsp; <!-- Add space between icons -->
+          <a href="https://www.java.com" target="parent" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+            <strong>Java</strong>
+          </a>
+          &nbsp;
+          <a href="https://www.php.net" target="parent" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+            <strong>PHP</strong>
+          </a>
+          &nbsp;
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+            <strong>JavaScript</strong>
+          </a>
+        </p>
+      </td>
+
+  </tr>
+
+  <tr>
+    <td>Backend</td>
+    <td>
+      <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/>
+        <strong>Laravel</strong>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Front-end</td>
+    <td>
+        <p align="left">
+        <a href="https://getbootstrap.com" target="parent" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+          <strong>Bootstrap</strong>
+        </a>
+        <a href="https://vuejs.org/" target="parent" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+          <strong>Vue.js</strong>
+        </a>
+        <a href="https://vuetifyjs.com/en/" target="parent" rel="noreferrer">
+          <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
+          <strong>Vuetify</strong>
+        </a>
+        <a href="https://tailwindcss.com/" target="parent" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+          <strong>Tailwind CSS</strong>
+        </a>
+        <a href="https://flask.palletsprojects.com/" target="parent" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+          <strong>Flask</strong>
+        </a>
+        <a href="https://www.w3schools.com/css/" target="parent" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+          <strong>CSS3</strong>
+        </a>
+        <a href="https://www.w3.org/html/" target="parent" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+          <strong>HTML5</strong>
+        </a>
+        </p>
+        </td>
+  </tr>
+
+  <tr>
+    <td>Database</td>
+    <td>
+      <p align="left">
+        <a href="https://www.postgresql.org" target="parent" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+          <strong>PostgreSQL</strong>
+        </a>
+        <a href="https://www.mysql.com/" target="parent" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+          <strong>MySQL</strong>
+        </a>
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Mobile app</td>
+    <td>
+      <p align="left"> 
+        <a href="https://developer.android.com" target="parent" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+          <strong>Android</strong>
+        </a>
+        <a href="https://reactnative.dev/" target="parent" rel="noreferrer"> 
+          <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+          <strong>React Native</strong>
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Desktop app</td>
+    <td>
+      <p align="left"> 
+       <a href="https://www.electronjs.org" target="parent" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+          <strong>Electron</strong>
+        </a>
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>AI / ML</td>
+    <td>
+      <p align="left">
+        <a href="https://scikit-learn.org/" target="parent" rel="noreferrer"> 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+          <strong>Scikit-Learn</strong>
+        </a> 
+        <a href="https://seaborn.pydata.org/" target="parent" rel="noreferrer"> 
+          <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+          <strong>Seaborn</strong>
+        </a> 
+        <a href="https://www.tensorflow.org" target="parent" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+          <strong>TensorFlow</strong>
+        </a> 
+        <a href="https://pytorch.org/" target="parent" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+          <strong>PyTorch</strong>
+        </a>  
+        <a href="https://opencv.org/" target="parent" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+          <strong>OpenCV</strong>
+        </a> 
+        <a href="https://pandas.pydata.org/" target="parent" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+          <strong>Pandas</strong>
+        </a>
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Data visualization</td>
+    <td>
+      <a href="https://www.chartjs.org" target="parent" rel="noreferrer"> 
+        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
+        <strong>Chart.js</strong>
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>IDE and Tools</td>
+    <td>
+      <p align="left">
+        <a href="https://postman.com" target="parent" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+          <strong>Postman</strong>
+        </a>
+        <a href="https://git-scm.com/" target="parent" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+          <strong>Git</strong>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikmandjuma&show_icons=true&locale=en&layout=compact" alt="bikmandjuma" /></p>
 
