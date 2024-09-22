@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Bikman Ntiruhungwa</h1>
 
 <h3 align="center">
-  A passionate software developer with a deep love for coding and problem-solving. I specialize in PHP, Laravel,javascript and webdevelopment  and web development, but I’m always exploring new technologies to expand my skills.
+  A passionate software developer with a deep love for coding and problem-solving. I specialize in 4 different languages and their frameworks, but I’m always exploring new technologies to expand my skills.
 </h3>
 
 <h3>What I do:</h3>
