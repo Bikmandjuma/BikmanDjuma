@@ -2,7 +2,7 @@
 <img height="300"  style="margin-top:-80px;" alt="coding" src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png">
 
 <!--h1 align="center">Hi 👋, I'm Bikman Ntiruhungwa</h1-->
-<h1 align="center">Hi 👋, I'm Bikman Ntiruhungwa</h1>
+<h1 align="center">Hi 👋, I'm Bikman Ntiruhungwa (Savvy coder)</h1>
 
 <h3 align="center">
   A passionate software developer with a deep love for coding and problem-solving. I specialize in 4 different languages and their frameworks, but I’m always exploring new technologies to expand my skills.
