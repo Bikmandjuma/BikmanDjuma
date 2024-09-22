@@ -207,7 +207,6 @@
       </a>
     </td>
   </tr>
-  
   <tr>
     <td>IDE and Tools</td>
     <td>
@@ -220,9 +219,30 @@
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
           <strong>Git</strong>
         </a>
+        <a href="https://visualstudio.microsoft.com/" target="parent" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/> 
+          <strong>Visual Studio</strong>
+        </a>
+        <a href="https://jupyter.org/" target="parent" rel="noreferrer"> 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> 
+          <strong>Jupyter</strong>
+        </a>
+        <a href="https://www.anaconda.com/" target="parent" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> 
+          <strong>Anaconda</strong>
+        </a>
+        <a href="https://www.eclipse.org/" target="parent" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> 
+          <strong>Eclipse</strong>
+        </a>
+        <a href="https://www.jetbrains.com/idea/" target="parent" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> 
+          <strong>IntelliJ IDEA</strong>
+        </a>
       </p>
     </td>
-  </tr>
+</tr>
+
 </table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikmandjuma&show_icons=true&locale=en&layout=compact" alt="bikmandjuma" /></p>
