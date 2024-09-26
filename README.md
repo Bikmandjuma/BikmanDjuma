@@ -149,7 +149,7 @@
         </a>
         &nbsp;&nbsp;
         <a href="https://www.mysql.com/" target="parent" rel="noreferrer">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2rCHR_rIly_LmbAorJ7hwVmfhXdFmk8gPzW94mGC50s3gEg314L3DARLCLA4REqDQgu8&usqp=CAU"/> 
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2rCHR_rIly_LmbAorJ7hwVmfhXdFmk8gPzW94mGC50s3gEg314L3DARLCLA4REqDQgu8&usqp=CAU"  width="40" height="40"/> 
           <strong>SQLAchemy</strong>
         </a>
       </p>
