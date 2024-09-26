@@ -147,6 +147,11 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
           <strong>MySQL</strong>
         </a>
+        &nbsp;&nbsp;
+        <a href="https://www.mysql.com/" target="parent" rel="noreferrer">
+          <img src="https://www.google.com/imgres?q=sqlalchemy&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd7%2FSQLAlchemy.svg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSQLAlchemy&docid=agrqUxNrucwr_M&tbnid=mpsF8J0gPxQ8XM&vet=12ahUKEwic7fS5zeCIAxUbRPEDHe6jBX8QM3oECGEQAA..i&w=800&h=400&hcb=2&ved=2ahUKEwic7fS5zeCIAxUbRPEDHe6jBX8QM3oECGEQAA"/> 
+          <strong>SQLAchemy</strong>
+        </a>
       </p>
     </td>
   </tr>
