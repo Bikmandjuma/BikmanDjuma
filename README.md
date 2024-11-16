@@ -10,7 +10,7 @@
 
 <h3>What I do:</h3>
 <ol>
-  <li>📱 Building modern web applications using <strong>Laravel ,VueJS and Flask</strong>.</li>
+  <li>📱 Building modern web applications using <strong>Laravel ,VueJS ,TailWind and Flask</strong>.</li>
   <li>💻 Developing dynamic websites and <strong>RESTful APIs</strong>.</li>
   <li>📈 Working on data visualization and analytics projects.</li>
   <li>🛠 Exploring <strong>React Native and android</strong> for cross-platform mobile apps.</li>
