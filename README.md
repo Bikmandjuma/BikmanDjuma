@@ -73,8 +73,8 @@
 <img src="https://raw.githubusercontent.com/ngud-119/ngud-119/main/machine.gif" alt="image_codes" style="padding-left:20px;padding-right:20px" />
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<h2><b>Skills</b></h2>
+<h3 align="left">Languages and Tools (<b>Skills</b>)</h3>
+
 <table>
   <tr>
     <td>Programming language</td>
