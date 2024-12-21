@@ -54,12 +54,12 @@
     <td>
         <p align="left">
           <a href="https://www.python.org" target="parent" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+            <img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="python" width="40" height="40"/> 
             <strong>Python</strong>
           </a>
           &nbsp;&nbsp; <!-- Add space between icons -->
           <a href="https://www.java.com" target="parent" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+            <img src="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" alt="java" width="40" height="40"/> 
             <strong>Java</strong>
           </a>
           &nbsp;&nbsp;
@@ -85,7 +85,7 @@
       <strong>Laravel</strong>
     </a>&nbsp;&nbsp;
     <a href="https://flask.palletsprojects.com/" target="_parent" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+      <img src="https://camo.githubusercontent.com/116af1682613e57227e6b2b951b9bbf2783b301df581010b21dad7848ee9587e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d666c61736b" alt="Flask" width="40" height="40"/>
       <strong>Flask</strong>
     </a>&nbsp;&nbsp;
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
@@ -94,7 +94,7 @@
     </a>&nbsp;&nbsp;
     <a href="https://www.geeksforgeeks.org/rest-api-introduction/" target="_blank" rel="noreferrer">
       <img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="FastAPI" width="40" height="40"/>
-      <strong>FastAPI</strong>
+      <strong>Rest-API</strong>
     </a>&nbsp;&nbsp;
     <a href="https://www.oracle.com/java/technologies/javaee/jsp.html" target="_blank" rel="noreferrer">
       <img src="https://freesvg.org/img/jsp.png" alt="JSP" width="40" height="40"/>
@@ -149,7 +149,7 @@
           <strong>PostgreSQL</strong>
         </a>&nbsp;&nbsp;
         <a href="https://www.mysql.com/" target="parent" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+          <img src="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" alt="mysql" width="40" height="40"/> 
           <strong>MySQL</strong>
         </a>
         &nbsp;&nbsp;
