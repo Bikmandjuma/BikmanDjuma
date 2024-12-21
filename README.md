@@ -11,7 +11,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
   <!-- Left Content -->
-  <table style="border:none;">
+  <table border="0">
     <tr>
       <td>
         <div style="max-width: 60%; padding-right: 20px;">
@@ -67,12 +67,13 @@
 <a href="mailto:ntiruhungwab@gmail.com" target="parent"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9JOHxRmhJ3K3QwX236A2VWrjXA2UIC8S9AA&s" alt="bikmangeek" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
 <h2><b>Process</b></h2>
 <hr>
 <img src="https://raw.githubusercontent.com/ngud-119/ngud-119/main/machine.gif" alt="image_codes" style="padding-left:20px;padding-right:20px" />
 <hr>
 
+<h3 align="left">Languages and Tools:</h3>
 <h2><b>Skills</b></h2>
 <table>
   <tr>
