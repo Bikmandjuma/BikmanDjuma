@@ -11,26 +11,31 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
   <!-- Left Content -->
-  <div style="max-width: 60%; padding-right: 20px;">
-    <h3>What I do:</h3>
-    <ol>
-      <li>📱 Building modern web applications using <strong>Laravel, VueJS, Tailwind, and Flask</strong>.</li>
-      <li>💻 Developing dynamic websites and <strong>RESTful APIs</strong>.</li>
-      <li>📈 Working on data visualization and analytics projects.</li>
-      <li>🛠 Exploring <strong>React Native and Android</strong> for cross-platform mobile apps.</li>
-      <li>🤖 Developing machine learning applications using <strong>Python</strong>.</li>
-      <li>📝 Writing clean, maintainable, and efficient code.</li>
-    </ol>
-  </div>
-
-  <!-- Right Image -->
-  <div style="flex-shrink: 0;max-width:40%;">
-    <img 
-      src="https://raw.githubusercontent.com/ngud-119/ngud-119/main/2.gif" 
-      alt="bikmandjuma" 
-      style="width: 180px; height: 200px; object-fit: cover;" 
-    />
-  </div>
+  <table>
+    <tr>
+      <td>
+        <div style="max-width: 60%; padding-right: 20px;">
+          <h3>What I do:</h3>
+          <ol>
+            <li>📱 Building modern web applications using <strong>Laravel, VueJS, Tailwind, and Flask</strong>.</li>
+            <li>💻 Developing dynamic websites and <strong>RESTful APIs</strong>.</li>
+            <li>📈 Working on data visualization and analytics projects.</li>
+            <li>🛠 Exploring <strong>React Native and Android</strong> for cross-platform mobile apps.</li>
+            <li>🤖 Developing machine learning applications using <strong>Python</strong>.</li>
+            <li>📝 Writing clean, maintainable, and efficient code.</li>
+          </ol>
+        </div>
+      </td>
+      <td>
+        <div style="flex-shrink: 0;max-width:40%;">
+          <img 
+            src="https://raw.githubusercontent.com/ngud-119/ngud-119/main/2.gif" 
+            alt="bikmandjuma" 
+            style="width: 180px; height: 200px; object-fit: cover;" 
+          />
+        </div>
+      </td>
+  </tr>
 </div>
 
 
