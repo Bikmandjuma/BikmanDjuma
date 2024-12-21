@@ -11,7 +11,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
   <!-- Left Content -->
-  <table>
+  <table border=0>
     <tr>
       <td>
         <div style="max-width: 60%; padding-right: 20px;">
@@ -31,7 +31,7 @@
           <img 
             src="https://raw.githubusercontent.com/ngud-119/ngud-119/main/2.gif" 
             alt="bikmandjuma" 
-            style="width: 180px; height: 200px; object-fit: cover;" 
+            style="width: 250px; height: 180px; object-fit: cover;" 
           />
         </div>
       </td>
