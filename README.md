@@ -92,6 +92,10 @@
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_3MFhCzXcwI3GWIDTsWJg2HXDTG7TwGovA&s" alt="FastAPI" width="40" height="40"/>
       <strong>FastAPI</strong>
     </a>&nbsp;&nbsp;
+    <a href="https://www.geeksforgeeks.org/rest-api-introduction/" target="_blank" rel="noreferrer">
+      <img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="FastAPI" width="40" height="40"/>
+      <strong>FastAPI</strong>
+    </a>&nbsp;&nbsp;
     <a href="https://www.oracle.com/java/technologies/javaee/jsp.html" target="_blank" rel="noreferrer">
       <img src="https://freesvg.org/img/jsp.png" alt="JSP" width="40" height="40"/>
       <strong>JSP</strong>
