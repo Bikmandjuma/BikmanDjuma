@@ -9,8 +9,9 @@
   A passionate software developer with a deep love for coding and problem-solving. I specialize in 4 different languages and their frameworks, but I’m always exploring new technologies to expand my skills.
 </h3>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
+  <!-- Left Content -->
+  <div style="max-width: 60%; padding-right: 20px;">
     <h3>What I do:</h3>
     <ol>
       <li>📱 Building modern web applications using <strong>Laravel, VueJS, Tailwind, and Flask</strong>.</li>
@@ -21,10 +22,17 @@
       <li>📝 Writing clean, maintainable, and efficient code.</li>
     </ol>
   </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/ngud-119/ngud-119/main/2.gif" alt="bikmandjuma" style="width: 200px; height: 220px; object-fit: cover;" />
+
+  <!-- Right Image -->
+  <div style="flex-shrink: 0;">
+    <img 
+      src="https://raw.githubusercontent.com/ngud-119/ngud-119/main/2.gif" 
+      alt="bikmandjuma" 
+      style="width: 200px; height: 220px; object-fit: cover;" 
+    />
   </div>
 </div>
+
 
 <hr>
 
