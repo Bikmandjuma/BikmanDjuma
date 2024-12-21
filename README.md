@@ -8,22 +8,24 @@
 <h3 align="center">
   A passionate software developer with a deep love for coding and problem-solving. I specialize in 4 different languages and their frameworks, but I’m always exploring new technologies to expand my skills.
 </h3>
-<div style="display:flex">
-  <div align="left">
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
     <h3>What I do:</h3>
     <ol>
-      <li>📱 Building modern web applications using <strong>Laravel ,VueJS ,TailWind and Flask</strong>.</li>
+      <li>📱 Building modern web applications using <strong>Laravel, VueJS, Tailwind, and Flask</strong>.</li>
       <li>💻 Developing dynamic websites and <strong>RESTful APIs</strong>.</li>
       <li>📈 Working on data visualization and analytics projects.</li>
-      <li>🛠 Exploring <strong>React Native and android</strong> for cross-platform mobile apps.</li>
+      <li>🛠 Exploring <strong>React Native and Android</strong> for cross-platform mobile apps.</li>
       <li>🤖 Developing machine learning applications using <strong>Python</strong>.</li>
       <li>📝 Writing clean, maintainable, and efficient code.</li>
     </ol>
   </div>
-  <div align="right">
-    <img src="https://raw.githubusercontent.com/ngud-119/ngud-119/main/2.gif" alt="bikmandjuma" width="200" height="220" />
+  <div>
+    <img src="https://raw.githubusercontent.com/ngud-119/ngud-119/main/2.gif" alt="bikmandjuma" style="width: 200px; height: 220px; object-fit: cover;" />
   </div>
 </div>
+
 <hr>
 
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=bikmandjuma&label=Profile%20views&color=0e75b6&style=flat" alt="bikmandjuma" /> </p>
