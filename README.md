@@ -24,11 +24,11 @@
   </div>
 
   <!-- Right Image -->
-  <div style="flex-shrink: 0;">
+  <div style="flex-shrink: 0;max-width:40%;">
     <img 
       src="https://raw.githubusercontent.com/ngud-119/ngud-119/main/2.gif" 
       alt="bikmandjuma" 
-      style="width: 200px; height: 220px; object-fit: cover;" 
+      style="width: 180px; height: 200px; object-fit: cover;" 
     />
   </div>
 </div>
