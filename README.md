@@ -166,7 +166,7 @@
           <strong>Android</strong>
         </a>&nbsp;&nbsp;
         <a href="https://reactnative.dev/" target="parent" rel="noreferrer"> 
-          <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+          <img src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="reactnative" width="40" height="40"/> 
           <strong>React Native</strong>
         </a>
       </p>
