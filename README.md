@@ -36,12 +36,9 @@
         </div>
       </td>
   </tr>
+  </table>
 </div>
 
-
-<hr>
-<img src="https://raw.githubusercontent.com/ngud-119/ngud-119/main/machine.gif" alt="image_codes" style="padding-left:20px;padding-right:20px" />
-<hr>
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=bikmandjuma&label=Profile%20views&color=0e75b6&style=flat" alt="bikmandjuma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikmandjuma" alt="bikmandjuma" /></a> </p>
@@ -71,6 +68,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<h2><b>Process</b></h2>
+<hr>
+<img src="https://raw.githubusercontent.com/ngud-119/ngud-119/main/machine.gif" alt="image_codes" style="padding-left:20px;padding-right:20px" />
+<hr>
+
+<h2><b>Skills</b></h2>
 <table>
   <tr>
     <td>Programming language</td>
