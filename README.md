@@ -295,6 +295,8 @@
 
 </table>
 
+<img align="center" src="https://raw.githubusercontent.com/SunsetMkt/SunsetMkt/refs/heads/snk/github-contribution-grid-snake.svg" alt="bikmandjuma" />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikmandjuma&show_icons=true&locale=en&layout=compact" alt="bikmandjuma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikmandjuma&show_icons=true&locale=en" alt="bikmandjuma" /></p>
