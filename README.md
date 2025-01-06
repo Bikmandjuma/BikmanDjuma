@@ -55,8 +55,6 @@
 
 - 📫 How to reach me **ntiruhungwab@gmail.com**
 
-<!-->- Know about my experiences [https://bikman-cv.tiiny.site/](https://bikman-cv.tiiny.site/)<-->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bikman_djuma" target="parent"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bikman_djuma" height="30" width="40" /></a>
