@@ -55,7 +55,7 @@
 
 - 📫 How to reach me **ntiruhungwab@gmail.com**
 
-- 📄 Know about my experiences [https://bikman-cv.tiiny.site/](https://bikman-cv.tiiny.site/)
+<!-->- Know about my experiences [https://bikman-cv.tiiny.site/](https://bikman-cv.tiiny.site/)<-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
