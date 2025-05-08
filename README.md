@@ -206,7 +206,7 @@
       <p align="left"> 
        <a href="https://www.electronjs.org" target="parent" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-          <strong>Electron</strong>
+          <strong>ElectronJS</strong>
         </a>
       </p>
     </td>
