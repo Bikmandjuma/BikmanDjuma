@@ -57,10 +57,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bikman_djuma" target="parent"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bikman_djuma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bikman-ntiruhungwa-a54641240" target="parent"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bikman-ntiruhungwa-a54641240" height="30" width="40" /></a>
+<a href="https://twitter.com/bikman_djuma" target="parent" title="Twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bikman_djuma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bikman-ntiruhungwa-a54641240" target="parent"  title="Linkedin"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bikman-ntiruhungwa-a54641240" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bikmangeek" target="parent" title="LeetCode"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bikmangeek" height="30" width="40" /></a>
-<a href="mailto:ntiruhungwab@gmail.com" target="parent"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9JOHxRmhJ3K3QwX236A2VWrjXA2UIC8S9AA&s" alt="bikmangeek" height="30" width="40" /></a>
+<a href="mailto:ntiruhungwab@gmail.com" target="parent"  title="Email"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9JOHxRmhJ3K3QwX236A2VWrjXA2UIC8S9AA&s" alt="bikmangeek" height="30" width="40" /></a>
 </p>
 
 
